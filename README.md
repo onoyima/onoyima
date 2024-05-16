@@ -1,8 +1,8 @@
 
 
 # ONOYIMA BONIFACE 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;Administrator)](https://git.io/typing-svg)
-I'm interested in Web development, DevOps, Software Engineering & Administrator<br>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Alx-Student;Administrator)](https://git.io/typing-svg)
+I'm interested in Web development, DevOps, Software Engineering, Administrator & Data Managenment <br>
 
 <!-- Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br> -->
 
