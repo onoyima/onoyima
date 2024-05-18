@@ -39,7 +39,7 @@ I'm interested in Web development, DevOps, Software Engineering, Administrator &
 ### Contact Me: <br>
 
 *E-mail* clintonfaze@yahoo.com<br>
-*Phone* +234(0)812021263
+*Phone* +234(0)8120212639
 
 ---
 
