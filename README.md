@@ -1,4 +1,4 @@
-
+ ![](https://komarev.com/ghpvc/?username=onoyima&style=plastic&color=red&label=PROFILE+VIEWS)
 
 # ONOYIMA BONIFACE 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Alx-Student;Administrator)](https://git.io/typing-svg)
