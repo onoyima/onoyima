@@ -44,14 +44,16 @@ I'm interested in Web development, DevOps, Software Engineering, Administrator &
 ---
 
 
-##[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats)
+
 <div align="center">
     <table>
       <tr>
         <td>
           <a href="http://www.github.com/onoyima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onoyima&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
-       <td> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats) </td>
+       <td> 
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats) 
+       </td>
       </tr>
      
       
