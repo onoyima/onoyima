@@ -43,11 +43,11 @@ I'm interested in Web development, DevOps, Software Engineering, Administrator &
 
 ---
 
-<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onoyima"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onoyima&theme=github"/>
-</div>
+
 <div align="center">
     <table>
       <tr>
