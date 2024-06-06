@@ -50,7 +50,7 @@ I'm interested in Web development, DevOps, Software Engineering, Administrator &
     <table>
       <tr>
         <td>
-          <a href="http://www.github.com/onoyima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=besthor&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+          <a href="http://www.github.com/onoyima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onoyima&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
       </tr>
   </table>
