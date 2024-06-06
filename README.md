@@ -51,10 +51,11 @@ I'm interested in Web development, DevOps, Software Engineering, Administrator &
         <td>
           <a href="http://www.github.com/onoyima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onoyima&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
+       <td> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats) </td>
       </tr>
-     <tr>
-      <td>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onoyima)](https://git.io/streak-stats)</td>
-     </tr>
+     
+      
+     
   </table>
 </div>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onoyima"/>
