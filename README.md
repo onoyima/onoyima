@@ -4,9 +4,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Alx-Student;Administrator)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps, Software Engineering, Administrator & Data Managenment <br>
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **Proficient software engineer, honed at ALX-Holberton School, specialized in Back-end mastery.**
+- **Student software engineer, at ALX-Holberton School, specialized in Back-end mastery.**
 - **Online instructor with a ***70%*** success rate mentoring cohorts**
-- **Producer of engaging tech tutorials on  YouTube channel** ***(45,000 views and counting!)***
 - **Fluent in sarcasm and the art of debugging.**
 
 
